@@ -1,6 +1,5 @@
 # hello-world
 This is my first repository.
-Hi Humans！
 
 Send someone to love me.
 I need to rest in arms.
